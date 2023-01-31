@@ -1,0 +1,18 @@
+.square{width: 100px; height: 100px; background-color: #1E90FF; border: 1px solid; display: inline-block}
+.h1{text-align: center;}
+body{text-align: center;}
+.o{ position: relative;
+
+}
+
+.o:after{content: "\1F359"; font-size: 50px; line-height: 100px; position: absolute; top: 0;
+bottom: 0; right: 0; left: 0;}
+
+.x{ position: relative;
+
+}
+
+.x:after{content: "\2694"; font-size: 50px; line-height: 100px; position: absolute; top: 0;
+bottom: 0; right: 0; left: 0;}
+
+

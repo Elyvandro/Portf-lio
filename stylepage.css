@@ -1,0 +1,9 @@
+nav{background-color: yellow; display: flex;}
+nav li{list-style: none; font-size: 20px; text-align: center;
+justify-content: center;}
+li:hover{background-color: white;}
+body{background-color: gainsboro}
+.itens{border: 3px solid black; display: flex;}
+img{width: 200px; height: 200px; align-items: flex-start;}
+
+
